@@ -1,0 +1,26 @@
+{
+  "name": "filters-vuejs",
+  "version": "1.0.0",
+  "description": "vuejs 常用过滤器集合",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/og-liu/filters-vuejs.git"
+  },
+  "keywords": [
+    "filter",
+    "filters",
+    "vuejs",
+    "vue",
+    "JavaScript"
+  ],
+  "author": "LiuKun <308880147@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/og-liu/filters-vuejs/issues"
+  },
+  "homepage": "https://github.com/og-liu/filters-vuejs#readme"
+}
