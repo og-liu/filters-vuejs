@@ -1,6 +1,6 @@
 {
   "name": "filters-vuejs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vuejs 常用过滤器集合",
   "main": "index.js",
   "scripts": {
